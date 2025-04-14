@@ -50,29 +50,3 @@ Para mais detalhes sobre os termos da licença, visite: [Creative Commons Attrib
 <img src="https://mirrors.creativecommons.org/presskit/icons/by.large.png" alt="CC BY Logo" width="150"/>
 
 [Application 4.0 International](https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1)
-
-## Tags
-
-[Sprint 2](https://github.com/Inteli-College/2025-1A-T03-G26-INTERNO/releases/tag/Sprint2)
-
-- Entendimento do Usuário - Versão Inicial
-
-- Arquitetura de Software - Versão 1
-
-[Sprint 3](https://github.com/Inteli-College/2025-1A-T03-G26-INTERNO/releases/tag/Sprint3)
-
-- Entendimento do Usuário - Versão Final
- 
-- Arquitetura de Software - Versão 2
-
-[Sprint 4](https://github.com/Inteli-College/2025-1A-T03-G26-INTERNO/releases/tag/Sprint4)
-
-- Entendimento do Usuário - Adicionais
- 
-- Arquitetura de Software - Versão 3
-
-[Sprint 5](https://github.com/Inteli-College/2025-1A-T03-G26-INTERNO/releases/tag/Sprint5)
-
-- Wireframe/Mockup - Versão Final
- 
-- Arquitetura de Software - Versão Final
