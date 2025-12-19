@@ -26,11 +26,6 @@ O  principal  objetivo  do  AtendeAI  é  melhorar  a  eficiência  no  atendime
 solicitações dos cidadãos, reduzindo o tempo de resposta, aumentando a precisão 
 no  encaminhamento  de  demandas  e  promovendo  maior  transparência  e 
 acessibilidade.
-Este repositório contempla o módulo 1, onde foram criado o mapeamento do usuário como um todo, wireframes contendo a jornada do usuário e também o ponto de vista de um usuário da subprefeitura e a arquitetura em cloud e de IA para o chatbot e o app.
-
-# Configuração para desenvolvimento
-
-Como não há código para este módulo, não há uma configuração para desenvolvimento
 
 # Licença
 
