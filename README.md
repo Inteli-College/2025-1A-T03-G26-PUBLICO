@@ -10,7 +10,7 @@
 
 # Projeto: AtendeAI - Plataforma de serviços de atendimento inteligente aos Cidadãos da Capital Paulista
 
-Este é um projeto do primeiro módulo do TCC dos alunos do 4° ano.
+Este é um projeto do TCC dos alunos do 4° ano.
 
 # Grupo: Atende3
 
